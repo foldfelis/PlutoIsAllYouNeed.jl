@@ -21,7 +21,7 @@ begin
 	using Dates
 	using Plots
 	plotly()
-end
+end;
 
 # ╔═╡ e7c58bf2-58d4-11eb-385a-67e8f5a81355
 # presentation with x150% page size
@@ -64,9 +64,12 @@ md"
 # ╔═╡ 47ac33c2-58f8-11eb-027d-f548da3c1f32
 LocalResource("../res/meme.jpg", :width => 500)
 
+# ╔═╡ d360e614-58f9-11eb-153c-77fa389101e0
+md"Picture revised from `@YUKIJI`"
+
 # ╔═╡ 866c443c-58f6-11eb-00f2-132d07f35219
 md"
-### Via `PlutoUI`
+### Via `PlutoUI.jl`
 "
 
 # ╔═╡ 10d94394-58e4-11eb-33dc-79e2a37848bb
@@ -196,7 +199,7 @@ LocalResource("../res/julia.png", :width => 400)
 
 # ╔═╡ Cell order:
 # ╟─e7c58bf2-58d4-11eb-385a-67e8f5a81355
-# ╠═6d6f2024-58d5-11eb-2fe4-b380b8dc2f85
+# ╟─6d6f2024-58d5-11eb-2fe4-b380b8dc2f85
 # ╟─405aa520-58f0-11eb-0daa-29ab5c641bbc
 # ╟─da2061b0-58f8-11eb-3690-d3ac607fbe1d
 # ╟─f09fd2ce-58ef-11eb-0d79-3b5e9b0635cd
@@ -205,6 +208,7 @@ LocalResource("../res/julia.png", :width => 400)
 # ╟─6244e670-58f8-11eb-2018-0b1a755e5aec
 # ╟─dee857b8-58f6-11eb-07a3-91ddc240b8e5
 # ╟─47ac33c2-58f8-11eb-027d-f548da3c1f32
+# ╟─d360e614-58f9-11eb-153c-77fa389101e0
 # ╟─866c443c-58f6-11eb-00f2-132d07f35219
 # ╟─10d94394-58e4-11eb-33dc-79e2a37848bb
 # ╠═ab1f4bfa-58d9-11eb-2479-9fd4a9fb8fad
