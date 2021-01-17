@@ -37,6 +37,9 @@ md"
 # Pluto is all you need
 "
 
+# ╔═╡ da2061b0-58f8-11eb-3690-d3ac607fbe1d
+LocalResource("../res/pluto.svg", :height=>500)
+
 # ╔═╡ f09fd2ce-58ef-11eb-0d79-3b5e9b0635cd
 md"
 ## A live bond between an HTML object and a Julia variable
@@ -195,6 +198,7 @@ LocalResource("../res/julia.png", :width => 400)
 # ╟─e7c58bf2-58d4-11eb-385a-67e8f5a81355
 # ╠═6d6f2024-58d5-11eb-2fe4-b380b8dc2f85
 # ╟─405aa520-58f0-11eb-0daa-29ab5c641bbc
+# ╟─da2061b0-58f8-11eb-3690-d3ac607fbe1d
 # ╟─f09fd2ce-58ef-11eb-0d79-3b5e9b0635cd
 # ╟─4392c80e-58f6-11eb-27c9-cb165710121f
 # ╠═4f40c65e-58f6-11eb-33c0-93ec116d75ef
