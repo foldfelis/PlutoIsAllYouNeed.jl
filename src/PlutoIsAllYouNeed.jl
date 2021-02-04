@@ -1,5 +1,7 @@
 module PlutoIsAllYouNeed
+    # lib
+    include("../notebook/lib.jl")
 
-# Write your package code here.
-
+    # mc_pi, _ = monte_carlo_π(1000)
+    # println(mc_pi)
 end
