@@ -1,5 +1,5 @@
 ### A Pluto.jl notebook ###
-# v0.12.18
+# v0.12.20
 
 using Markdown
 using InteractiveUtils
@@ -171,7 +171,7 @@ md"
 "
 
 # ╔═╡ 71834dc0-58f1-11eb-09b5-952d4e35ab13
-@bind data FilePicker([MIME("text/csv")])
+@bind data FilePicker([MIME("text/csv")]) # data.csv
 
 # ╔═╡ a41c1868-58f1-11eb-0675-9fe8c35095e3
 data
